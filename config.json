@@ -1,0 +1,14 @@
+{
+  "url": "https://api.idg.vnpt.vn/ai/v1/ocr/id",
+  "type": "POST_RAW",
+  "headers": {
+    "Content-Type": "application/json",
+    "mac-address": "HUY_TEST-001",
+    "Token-id": "ad1ed766-39c2-207b-e053-5f4fc10a8ac7",
+    "Token-key": "MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJE7XXXFOp7u6bJr9gkEOa4e78zIcZtdZsQf1cz4Mlne3bu5nBU3YSzFqVWVGAPsFgi96tLqjObI74huOOEKGHECAwEAAQ==",
+    "Authorization": "bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4Yzg4MGI1OC1iMmRiLTExZWItODU1OS03ZGQ5YmUyMTU2MWYiLCJhdWQiOlsicmVzdHNlcnZpY2UiXSwidXNlcl9uYW1lIjoiYm9uYm9uY250dDJAZ21haWwuY29tIiwic2NvcGUiOlsicmVhZCJdLCJpc3MiOiJodHRwczovL2xvY2FsaG9zdCIsIm5hbWUiOiJib25ib25jbnR0MkBnbWFpbC5jb20iLCJ1dWlkX2FjY291bnQiOiI4Yzg4MGI1OC1iMmRiLTExZWItODU1OS03ZGQ5YmUyMTU2MWYiLCJhdXRob3JpdGllcyI6WyJVU0VSIl0sImp0aSI6ImQ1ZTRjNjUxLTJkNGMtNGJlYS1hN2IzLTE5ZjJmNzEyZmM5NSIsImNsaWVudF9pZCI6ImFkbWluYXBwIn0.uabI9wiic-1JB4iGRfH5qpeBtSjfM9rt8cV1SPp--utmbVhb02kRH4qPn9AR3vHpEuHgUZQxdTVJEaoM3-F-pFxLLs-WHcMrOBfcqQFJum5tONYvXMYahJJUHrbHAVCh3KkQoESMspbtfopkkBxP8492tpZA9yx6o6paugdIgVIN7IVjr-rVZyOYlzTniOFCP2UGujdy6lGBwI6pRS2ll-44cBSa1eGDOP8yg2AcPn8XlPMqWsutZTmMyX_X6XGeyEX-B27bkWXEzswsANBJuczMkHm9LPk73PvwIyzygOlXmlo5-e6kk55HnDrL68V_F1W2nChI0Y1Y0CFdVrJZ4w"
+},
+  "body": {
+
+  }
+}
