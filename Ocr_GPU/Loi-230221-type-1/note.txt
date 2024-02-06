@@ -1,0 +1,6 @@
+kết quả mong đợi cũ:
+{
+    "errors": [
+        "Da co loi 'NoneType' object is not subscriptable"
+    ]
+}

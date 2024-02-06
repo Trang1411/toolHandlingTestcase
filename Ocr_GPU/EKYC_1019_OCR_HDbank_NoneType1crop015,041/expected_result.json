@@ -1,0 +1,58 @@
+{
+    "object": {
+        "back_corner_warning": "no",
+        "back_expire_warning": "no",
+        "back_type_id": 5,
+        "birth_day": "30/01/1990",
+        "card_type": "C\u0102N C\u01af\u1edaC C\u00d4NG D\u00c2N",
+        "citizen_id": "-",
+        "corner_warning": "no",
+        "expire_warning": "no",
+        "features": "N\u1ed1t ru\u1ed3i C:35 cm tr\u00ean tr\u01b0\u1edbc \u0111u\u00f4i\nl\u00f4ng m\u00e0y ph\u1ea3i",
+        "gender": "Nam",
+        "general_warning": [],
+        "id": "082090001476",
+        "id_fake_warning": "no",
+        "issue_date": "13/04/2021",
+        "issue_place": "C\u1ee4C TR\u01af\u1edeNG C\u1ee4C C\u1ea2NH S\u00c1T\nQU\u1ea2N L\u00dd H\u00c0NH CH\u00cdNH V\u1ec0 TR\u1eacT T\u1ef0 X\u00c3 H\u1ed8I",
+        "mrz": [
+            "IDVNM0900014763082090001476<<9",
+            "9001309M3001307VNM<<<<<<<<<<<8",
+            "NGUYEN<<HUU<HIEP<<<<<<<<<<<<<<"
+        ],
+        "msg": "OK",
+        "msg_back": "OK",
+        "name": "NGUY\u1ec4N H\u1eecU HI\u1ec6P",
+        "name_fake_warning": "real",
+        "nation_policy": "C\u1ed8NG H\u00d2A X\u00c3 H\u1ed8I CH\u1ee6 NGH\u0128A VI\u1ec6T NAM",
+        "nationality": "Vi\u1ec7t Nam",
+        "origin_location": "B\u00ecnh \u0110\u00f4ng, Th\u1ecb x\u00e3 G\u00f2 C\u00f4ng, Ti\u1ec1n Giang",
+        "quality_back": {
+            "blur_score": 0.0454,
+            "bright_spot_param": {
+                "average_intensity": 97.89,
+                "bright_spot_threshold": 237,
+                "total_bright_spot_area": 0
+            },
+            "bright_spot_score": 0,
+            "final_result": {
+                "bad_luminance_likelihood": "unlikely",
+                "blurred_likelihood": "unlikely",
+                "bright_spot_likelihood": "unlikely",
+                "low_resolution_likelihood": "unlikely"
+            },
+            "luminance_score": 0.3824,
+            "resolution": [
+                443,
+                720
+            ]
+        },
+        "recent_location": "\u1ea4p Mu\u00f4n Nghi\u1ec7p\nB\u00ecnh \u0110\u00f4ng, Th\u1ecb x\u00e3 G\u00f2 C\u00f4ng, Ti\u1ec1n Giang",
+        "tampering": {
+            "is_legal": "yes",
+            "warning": []
+        },
+        "type_id": 5,
+        "valid_date": "30/01/2030"
+    }
+}

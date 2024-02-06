@@ -1,0 +1,63 @@
+{
+    "object": {
+        "origin_location": "S\u01a1n Ninh, H\u01b0\u01a1ng S\u01a1n\nH\u00e0 T\u0129nh",
+        "msg": "OK",
+        "gender": "N\u1eef",
+        "expire_warning": "no",
+        "warning_msg": [
+            "Gi\u1ea5y t\u1edd c\u00f3 m\u1eb7t tr\u01b0\u1edbc v\u00e0 m\u1eb7t sau kh\u00f4ng kh\u1edbp"
+        ],
+        "back_type_id": 5,
+        "nation_policy": "C\u1ed8NG H\u00d2A X\u00c3 H\u1ed8I CH\u1ee6 NGH\u0128A VI\u1ec6T NA",
+        "corner_warning": "no",
+        "general_warning": [
+            "mat_truoc_mat_sau_khong_khop"
+        ],
+        "valid_date": "23/11/2041",
+        "issue_date": "26/02/2021",
+        "quality_back": {
+            "blur_score": 0.1201,
+            "bright_spot_param": {
+                "bright_spot_threshold": 237,
+                "average_intensity": 175.56,
+                "total_bright_spot_area": 1
+            },
+            "luminance_score": 0.6858,
+            "final_result": {
+                "bad_luminance_likelihood": "unlikely",
+                "low_resolution_likelihood": "unlikely",
+                "blurred_likelihood": "likely",
+                "bright_spot_likelihood": "likely"
+            },
+            "bright_spot_score": 0.7311,
+            "resolution": [
+                346,
+                536
+            ]
+        },
+        "back_corner_warning": "no",
+        "warning": [
+            "mat_truoc_mat_sau_khong_khop"
+        ],
+        "id": "042181000752",
+        "card_type_prob": 0,
+        "back_expire_warning": "no",
+        "msg_back": "OK",
+        "issue_place": "C\u1ee4C TR\u01af\u1edeNG C\u1ee4C C\u1ea2NH S\u00c1T\nQU\u1ea2N L\u00dd H\u00c0NH CH\u00cdNH V\u1ec0 TR\u1eacT T\u1ef0 X\u00c3 H\u1ed8I",
+        "recent_location": "/ Place of re\nTh\u00f4n Ninh S\u1edf\nNinh S\u1edf, Th\u01b0\u1eddng T\u00edn, H\u00e0 N\u1ed9i",
+        "id_fake_warning": "no",
+        "name_fake_warning": "fake",
+        "type_id": 5,
+        "card_type": "-",
+        "birth_day": "-",
+        "citizen_id": "-",
+        "nationality": "-",
+        "name": "C\u1ea4N C\u01af\u01a0C C\u00d4NG D\u00c2N",
+        "tampering": {
+            "is_legal": "no",
+            "warning": [
+                "invalid_dob"
+            ]
+        }
+    }
+}

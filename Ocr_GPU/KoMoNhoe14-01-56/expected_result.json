@@ -1,0 +1,32 @@
+{
+    "object": {
+        "back_corner_warning": "no",
+        "back_expire_warning": "no",
+        "back_type_id": 0,
+        "birth_day": "05/11/1991",
+        "card_type": "GI\u1ea4Y CH\u1ee8NG MINH NH\u00c2N D\u00c2N",
+        "citizen_id": "-",
+        "corner_warning": "no",
+        "expire_warning": "no",
+        "gender": "-",
+        "id": "063288649",
+        "id_fake_warning": "no",
+        "issue_date": "22/03/2007",
+        "issue_place": "L\u00e0o Cai",
+        "msg": "OK",
+        "msg_back": "OK",
+        "name": "L\u00ca NG\u1eccC D\u01af\u01a0NG",
+        "nation_policy": "C\u1ed8NG HO\u00c0 X\u00c3 H\u1ed8I CH\u1ee6 NGH\u0128A VI\u1ec6T NAM",
+        "nation_slogan": "\u0110\u1ed9c l\u1eadp - T\u1ef1 do - H\u1ea1nh ph\u00fac",
+        "nationality": "-",
+        "origin_location": "Giao ti\u1ebfn\nGiao th\u1ee7y, Nam \u0111\u1ecbnh",
+        "print_type": "typing",
+        "recent_location": "P.Kim t\u00e2n\nTP. L\u00e0o cai, L\u00e0o cai",
+        "tampering": {
+            "is_legal": "yes",
+            "warning": []
+        },
+        "type_id": 0,
+        "valid_date": "-"
+    }
+}

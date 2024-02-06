@@ -1,0 +1,54 @@
+{
+    "object": {
+        "back_corner_warning": "no",
+        "back_expire_warning": "no",
+        "back_type_id": 5,
+        "birth_day": "23/11/1986",
+        "card_type": "C\u0102N C\u01af\u1edaC C\u00d4NG D\u00c2N",
+        "citizen_id": "-",
+        "corner_warning": "no",
+        "expire_warning": "yes",
+        "gender": "N\u1eef",
+        "general_warning": [
+            "qua_han_mat_truoc"
+        ],
+        "id": "042181000752",
+        "id_fake_warning": "no",
+        "issue_date": "28/02/2021",
+        "issue_place": "C\u1ee4C TR\u01af\u1edeNG C\u1ee4C C\u1ea2NH S\u00c1T\nQU\u1ea2N L\u00dd H\u00c0NH CH\u00cdNH V\u1ec0 TR\u1eacT T\u1ef0 X\u00c3 H\u1ed8I",
+        "msg": "OK",
+        "msg_back": "OK",
+        "name": "NG\u00d4 TH\u1eca HO\u00c0N",
+        "name_fake_warning": "real",
+        "nation_policy": "C\u1ed8NG H\u00d2A X\u00c3 H\u1ed8I CH\u1ee6 NGH\u0128A VI\u1ec6T NAM",
+        "nationality": "Vi\u1ec7t Nam",
+        "origin_location": "S\u01a1n Ninh, H\u01b0\u01a1ng S\u01a1n\nH\u00e0 T\u0129nh",
+        "quality_back": {
+            "blur_score": 0,
+            "bright_spot_param": {
+                "average_intensity": 155.81,
+                "bright_spot_threshold": 215,
+                "total_bright_spot_area": 0
+            },
+            "luminance_score": 0.6087,
+            "final_result": {
+                "bad_luminance_likelihood": "unlikely",
+                "low_resolution_likelihood": "unlikely",
+                "blurred_likelihood": "unlikely",
+                "bright_spot_likelihood": "unlikely"
+            },
+            "bright_spot_score": 0,
+            "resolution": [
+                497,
+                754
+            ]
+        },
+        "recent_location": "Th\u00f4n Ninh S\u1edf\nNinh S\u1edf, Th\u01b0\u1eddng T\u00edn, H\u00e0 N\u1ed9i",
+        "tampering": {
+            "is_legal": "no",
+            "warning": []
+        },
+        "type_id": 5,
+        "valid_date": "-"
+    }
+}

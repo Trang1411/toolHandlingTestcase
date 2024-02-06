@@ -1,0 +1,32 @@
+{
+    "object": {
+        "back_corner_warning": "no",
+        "back_expire_warning": "yes",
+        "back_type_id": 0,
+        "birth_day": "13/03/1989",
+        "card_type": "GI\u1ea4Y CH\u1ee8NG MINH NH\u00c2N D\u00c2N",
+        "citizen_id": "-",
+        "corner_warning": "no",
+        "expire_warning": "yes",
+        "gender": "-",
+        "id": "100934684",
+        "id_fake_warning": "no",
+        "issue_date": "26/12/2003",
+        "issue_place": "Qu\u1ea3ng Ninh",
+        "msg": "OK",
+        "msg_back": "OK",
+        "name": "TR\u1ea6N V\u0102N D\u0168NG",
+        "nation_policy": "C\u1ed8NG HO\u00c0 X\u00c3 H\u1ed8I CH\u1ee6 NGH\u0128A VI\u1ec6T NAM",
+        "nation_slogan": "\u0110\u1ed9c l\u1eadp - T\u1ef1 do - H\u1ea1nh ph\u00fac",
+        "nationality": "-",
+        "origin_location": "Kinh m\u00f4n\nH\u1ea3i D\u01b0\u01a1ng",
+        "print_type": "typing",
+        "recent_location": "Y\u00ean th\u1ecd\n\u0110\u00f4ng tri\u1ec1u, Qu\u1ea3ng Ninh",
+        "tampering": {
+            "is_legal": "yes",
+            "warning": []
+        },
+        "type_id": 0,
+        "valid_date": "-"
+    }
+}

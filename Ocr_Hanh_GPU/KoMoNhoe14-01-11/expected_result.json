@@ -1,0 +1,30 @@
+{
+    "object": {
+        "back_corner_warning": "no",
+        "back_expire_warning": "no",
+        "back_type_id": 1,
+        "birth_day": "01/07/1983",
+        "card_type": "C\u0102N C\u01af\u1edaC C\u00d4NG D\u00c2N",
+        "citizen_id": "-",
+        "corner_warning": "no",
+        "expire_warning": "no",
+        "gender": "Nam",
+        "id": "092083003799",
+        "id_fake_warning": "no",
+        "issue_date": "24/07/2017",
+        "issue_place": "C\u1ee4C TR\u01af\u1edeNG C\u1ee4C C\u1ea2NH S\u00c1T \u0110KQL C\u01af TR\u00da V\u00c0 DLQG V\u1ec0 D\u00c2N C\u01af",
+        "msg": "OK",
+        "msg_back": "OK",
+        "name": "TR\u1ea6N DUY H\u01afNG",
+        "nation_policy": "C\u1ed8NG H\u00d2A X\u00c3 H\u1ed8I CH\u1ee6 NGH\u0128A VI\u1ec6T NAM",
+        "nationality": "Vi\u1ec7t Nam",
+        "origin_location": "Ngh\u0129a H\u1ed3ng\nNgh\u0129a H\u01b0ng, Nam \u0110\u1ecbnh",
+        "recent_location": "12/23/22, \u0110\u01b0\u1eddng 3/2\nH\u01b0ng L\u1ee3i, Ninh Ki\u1ec1u, C\u1ea7n Th\u01a1",
+        "tampering": {
+            "is_legal": "yes",
+            "warning": []
+        },
+        "type_id": 1,
+        "valid_date": "01/07/2023"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "object": {
+        "msg": "OK",
+        "origin_location": "Qu\u1ea3ng Ch\u00e2u,\nQu\u1ea3ng Tr\u1ea1ch, Qu\u1ea3ng B\u00ecnh.",
+        "gender": "-",
+        "expire_warning": "no",
+        "back_type_id": 0,
+        "nation_slogan": "\u0110\u1ed9c l\u1eadp - T\u1ef1 do - H\u1ea1nh ph\u00fac",
+        "print_type": "typing",
+        "nation_policy": "C\u1ed8NG HO\u00c0 X\u00c3 H\u1ed8I CH\u1ee6 NGH\u0128A VI\u1ec6T NAM",
+        "corner_warning": "no",
+        "valid_date": "-",
+        "issue_date": "03/07/2010",
+        "back_corner_warning": "no",
+        "id": "190810037",
+        "back_expire_warning": "no",
+        "msg_back": "OK",
+        "issue_place": "Qu\u1ea3ng B\u00ecnh",
+        "recent_location": "Qu\u1ea3ng Ch\u00e2u,\nQu\u1ea3ng Tr\u1ea1ch, Qu\u1ea3ng B\u00ecnh.",
+        "id_fake_warning": "no",
+        "type_id": 0,
+        "card_type": "GI\u1ea4Y CH\u1ee8NG MINH NH\u00c2N D\u00c2N",
+        "birth_day": "10/03/1962",
+        "citizen_id": "-",
+        "nationality": "-",
+        "name": "NGUY\u1ec4N TH\u1eca DUNG",
+        "tampering": {
+            "is_legal": "yes",
+            "warning": []
+        }
+    }
+}

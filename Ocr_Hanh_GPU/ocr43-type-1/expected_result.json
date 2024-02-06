@@ -1,0 +1,32 @@
+{
+    "object": {
+        "msg": "OK",
+        "origin_location": "M\u1ef9 Kh\u00e1nh,\nLong Xuy\u00ean, An Giang",
+        "gender": "-",
+        "expire_warning": "no",
+        "back_type_id": 0,
+        "nation_slogan": "\u0110\u1ed9c l\u1eadp - T\u1ef1 do - H\u1ea1nh ph\u00fac",
+        "print_type": "printing",
+        "nation_policy": "C\u1ed8NG HO\u00c0 X\u00c3 H\u1ed8I CH\u1ee6 NGH\u0128A VI\u1ec6T NAM",
+        "corner_warning": "no",
+        "valid_date": "-",
+        "issue_date": "09/10/2013",
+        "back_corner_warning": "no",
+        "id": "352447837",
+        "back_expire_warning": "no",
+        "msg_back": "OK",
+        "issue_place": "An Giang",
+        "recent_location": "B\u00ecnh H\u00f2a 1\nM\u1ef9 Kh\u00e1nh, Long Xuy\u00ean, An Giang",
+        "id_fake_warning": "no",
+        "type_id": 0,
+        "card_type": "GI\u1ea4Y CH\u1ee8NG MINH NH\u00c2N D\u00c2N",
+        "birth_day": "05/01/1999",
+        "citizen_id": "-",
+        "nationality": "-",
+        "name": "NGUY\u1ec4N NH\u1eacT TR\u01af\u1edcNG DUY",
+        "tampering": {
+            "is_legal": "yes",
+            "warning": []
+        }
+    }
+}

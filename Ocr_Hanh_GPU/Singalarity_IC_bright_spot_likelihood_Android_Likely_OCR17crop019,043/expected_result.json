@@ -1,0 +1,57 @@
+{
+    "object": {
+        "origin_location": "B\u1eafc L\u00fd, Hi\u1ec7p Ho\u00e0, B\u1eafc Giang",
+        "msg": "OK",
+        "gender": "-",
+        "print_type_for_front_matching": "PRINTING",
+        "expire_warning": "no",
+        "back_type_id": 0,
+        "print_type": "typing",
+        "nation_slogan": "\u0110\u1ed9c l\u1eadp - T\u1ef1 do - H\u1ea1nh ph\u00fac",
+        "nation_policy": "C\u1ed8NG HO\u00c0 X\u00c3 H\u1ed8I CH\u1ee6 NGH\u0128A VI\u1ec6T NAM",
+        "general_warning": [],
+        "corner_warning": "no",
+        "valid_date": "-",
+        "print_type_for_back_matching": "PRINTING",
+        "issue_date": "28/12/2010",
+        "quality_back": {
+            "blur_score": 0,
+            "bright_spot_param": {
+                "average_intensity": 189.2,
+                "bright_spot_threshold": 215,
+                "total_bright_spot_area": 19
+            },
+            "luminance_score": 0.739,
+            "final_result": {
+                "bad_luminance_likelihood": "unlikely",
+                "low_resolution_likelihood": "unlikely",
+                "blurred_likelihood": "unlikely",
+                "bright_spot_likelihood": "likely"
+            },
+            "bright_spot_score": 1,
+            "resolution": [
+                359,
+                545
+            ]
+        },
+        "back_corner_warning": "no",
+        "back_expire_warning": "no",
+        "id": "122128174",
+        "msg_back": "OK",
+        "issue_place": "B\u1eafc Giang",
+        "id_fake_warning": "no",
+        "recent_location": "B\u1eafc L\u00fd, Hi\u1ec7p H\u00f2a, B\u1eafc Giang",
+        "name_fake_warning": "real",
+        "type_id": 0,
+        "quality_front": {},
+        "card_type": "GI\u1ea4Y CH\u1ee8NG MINH NH\u00c2N D\u00c2N",
+        "birth_day": "11/02/1995",
+        "citizen_id": "-",
+        "nationality": "-",
+        "name": "NG\u00d4 TH\u1eca TH\u00d9Y",
+        "tampering": {
+            "is_legal": "yes",
+            "warning": []
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "object": {
+        "general_warning": [
+            "anh_mat_truoc_bi_che",
+            "id_mo_nhoe"
+        ],
+        "warning": [
+            "anh_mat_truoc_bi_che",
+            "id_mo_nhoe"
+        ],
+        "warning_msg": [
+            "\u1ea2nh m\u1eb7t tr\u01b0\u1edbc b\u1ecb che",
+            "C\u1ea3nh b\u00e1o th\u00f4ng tin ID b\u1ecb m\u1edd nh\u00f2e"
+        ]
+    }
+}

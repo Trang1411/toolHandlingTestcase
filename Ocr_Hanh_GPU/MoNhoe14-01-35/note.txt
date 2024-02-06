@@ -1,0 +1,11 @@
+kết quả mong đợi cũ:
+{
+    "warning": [
+        "ngay_cap_mo_nhoe"
+    ],
+    "warning_msg": [
+        "Cảnh báo thông tin ngày cấp bị mờ nhòe"
+    ]
+}
+---------------------------------
+a Huy: Những case mà trả ra đúng + ko cảnh báo mờ nhòe -> ok mình sửa expect mình thành như vậy

@@ -1,0 +1,9 @@
+{
+    "object": {
+        "general_warning": [],
+        "tampering": {
+            "is_legal": "yes",
+            "warning": []
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "object": {
+        "print_type_for_back_matching": "PRINTING",
+        "print_type_for_front_matching": "PRINTING",
+        "tampering": {
+            "is_legal": "yes",
+            "warning": []
+        }
+    }
+}

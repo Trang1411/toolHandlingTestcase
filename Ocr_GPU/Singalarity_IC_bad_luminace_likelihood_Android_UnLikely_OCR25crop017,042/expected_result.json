@@ -1,0 +1,58 @@
+{
+    "object": {
+        "back_corner_warning": "no",
+        "back_expire_warning": "no",
+        "back_type_id": 0,
+        "birth_day": "12/06/1996",
+        "card_type": "GI\u1ea4Y CH\u1ee8NG MINH NH\u00c2N D\u00c2N",
+        "citizen_id": "-",
+        "corner_warning": "no",
+        "expire_warning": "no",
+        "gender": "-",
+        "general_warning": [],
+        "id": "013240615",
+        "id_fake_warning": "no",
+        "issue_date": "12/01/2010",
+        "issue_place": "H\u00e0 N\u1ed9i",
+        "msg": "OK",
+        "msg_back": "OK",
+        "name": "NGUY\u1ec4N PHAN KHOA \u0110\u1ee8C",
+        "name_fake_warning": "real",
+        "nation_policy": "C\u1ed8NG HO\u00c0 X\u00c3 H\u1ed8I CH\u1ee6 NGH\u0128A VI\u1ec6T NAM",
+        "nation_slogan": "\u0110\u1ed9c l\u1eadp - T\u1ef1 do - H\u1ea1nh ph\u00fac",
+        "nationality": "-",
+        "origin_location": "Ngh\u0129a H\u01b0ng, Nam \u0110\u1ecbnh",
+        "print_type": "typing",
+        "print_type_for_back_matching": "PRINTING",
+        "print_type_for_front_matching": "PRINTING",
+        "quality_back": {
+            "blur_score": 0.7842,
+            "bright_spot_param": {
+                "average_intensity": 162.47,
+                "bright_spot_threshold": 215,
+                "total_bright_spot_area": 0
+            },
+            "luminance_score": 0.6347,
+            "final_result": {
+                "bad_luminance_likelihood": "unlikely",
+                "low_resolution_likelihood": "unlikely",
+                "blurred_likelihood": "likely",
+                "bright_spot_likelihood": "unlikely"
+            },
+            "bright_spot_score": 0,
+            "resolution": [
+                583,
+                934
+            ]
+        },
+        "recent_location": "S\u1ed1 8 ng\u00f5 238\nTh\u1ee5y Khu\u00ea, T\u00e2y H\u1ed3, H\u00e0 N\u1ed9i",
+        "tampering": {
+            "is_legal": "no",
+            "warning": [
+                "early_issue_date"
+            ]
+        },
+        "type_id": 0,
+        "valid_date": "-"
+    }
+}

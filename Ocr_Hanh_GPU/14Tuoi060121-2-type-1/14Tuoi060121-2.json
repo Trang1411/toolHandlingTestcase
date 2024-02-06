@@ -1,0 +1,65 @@
+{
+        "msg": "OK",
+        "name_prob": 1,
+        "issue_date_label_prob": 0.9649067091941833,
+        "origin_location": "Phùng Hưng\nKhoái Châu, Hưng Yên",
+        "birth_day_label": "Sinh ngày 25-08-1996",
+        "gender": "-",
+        "recent_location_label": "Nơi ĐKHK thường trú: Phùng Hưng",
+        "expire_warning": "no",
+        "issue_date_probs": [
+            0.9820451140403748,
+            0.8305842876434326,
+            1,
+            0.9999983310699463,
+            1,
+            1,
+            0.9999934434890747,
+            1
+        ],
+        "warning_msg": [
+            "Cảnh báo thông tin ngày cấp bị mờ nhòe"
+        ],
+        "back_type_id": 0,
+        "issue_date_warning": "yes",
+        "print_type": "typing",
+        "nation_slogan": "Độc lập - Tự do - Hạnh phúc",
+        "valid_date_prob": 0,
+        "origin_location_prob": 0.9999999940395355,
+        "nation_policy": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+        "corner_warning": "no",
+        "valid_date": "-",
+        "issue_date": "31/12/2009",
+        "id_fake_prob": 0.040260039269924164,
+        "back_corner_warning": "no",
+        "warning": [
+            "ngay_cap_mo_nhoe"
+        ],
+        "id": "145678203",
+        "back_expire_warning": "no",
+        "nationality_prob": 0,
+        "citizen_id_prob": 0,
+        "id_probs": "[1.0, 1.0, 1.0, 0.99999905, 0.99999964, 1.0, 1.0, 1.0, 0.999997]",
+        "msg_back": "OK",
+        "birth_day_prob": 0.9999634504318238,
+        "issue_place": "Hải Dương",
+        "recent_location": "Phùng Hưng\nKhoái Châu, Hưng Yên",
+        "id_fake_warning": "no",
+        "type_id": 0,
+        "card_type": "GIẤY CHỨNG MINH NHÂN DÂN",
+        "birth_day": "25/08/1996",
+        "issue_date_prob": 0.8305842876434326,
+        "citizen_id": "-",
+        "issue_place_prob": 0.9999988476435343,
+        "recent_location_prob": 0.9999999711590428,
+        "nationality": "-",
+        "gender_prob": 0,
+        "name": "BÙI VĂN BAO",
+        "tampering": {
+            "is_legal": "no",
+            "warning": [
+                "early_issue_date"
+            ]
+        },
+        "origin_location_label": "Nguyên quán: Phùng Hưng"
+    }

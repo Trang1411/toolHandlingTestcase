@@ -1,0 +1,38 @@
+{
+    "object": {
+        "origin_location": "V\u0129nh Nam\nV\u0129nh Linh, Qu\u1ea3ng tr\u1ecb.",
+        "msg": "OK",
+        "gender": "-",
+        "expire_warning": "no",
+        "warning_msg": [
+            "C\u1ea3nh b\u00e1o n\u1ed9i dung \u1ea3nh gi\u1ea5y t\u1edd \u0111\u1ea7u v\u00e0o lo\u00e1/m\u1ea5t g\u00f3c"
+        ],
+        "back_type_id": 0,
+        "print_type": "typing",
+        "nation_slogan": "\u0110\u1ed9c l\u1eadp - T\u1ef1 do - H\u1ea1nh ph\u00fac",
+        "nation_policy": "C\u1ed8NG HO\u00c0 X\u00c3 H\u1ed8I CH\u1ee6 NGH\u0128A VI\u1ec6T NAM",
+        "corner_warning": "yes",
+        "valid_date": "-",
+        "issue_date": "06/03/2006",
+        "back_corner_warning": "no",
+        "warning": [
+            "anh_dau_vao_mat_goc"
+        ],
+        "id": "197225281",
+        "back_expire_warning": "no",
+        "msg_back": "OK",
+        "issue_place": "Qu\u1ea3ng Tr\u1ecb",
+        "recent_location": "V\u0129nh Nam\nV\u0129nh Linh, Qu\u1ea3ng tr\u1ecb.",
+        "id_fake_warning": "no",
+        "type_id": 0,
+        "card_type": "GI\u1ea4Y CH\u1ee8NG MINH NH\u00c2N D\u00c2N",
+        "birth_day": "06/02/1991",
+        "citizen_id": "-",
+        "nationality": "-",
+        "name": "TR\u1ea6N TH\u1eca NG\u1eccC \u00c1NH",
+        "tampering": {
+            "is_legal": "yes",
+            "warning": []
+        }
+    }
+}
